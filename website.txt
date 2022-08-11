@@ -1,1 +1,3 @@
 cscms.sit.kmutt.ac.th
+
+practice java at : coding bat
