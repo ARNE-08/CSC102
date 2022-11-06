@@ -31,7 +31,7 @@ class Factory{
     cir += n;
     copper -= 0.000005 * n;
     silver -= 0.000002 * n;
-    gold -= 0.0000001 * n;
+    gold -= 0.00000001 * n;
   }
 }
 
